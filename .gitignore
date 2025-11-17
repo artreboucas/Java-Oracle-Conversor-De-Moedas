@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+target/
+
+# Logs
+*.log
+
+# Cache
+*.class
